@@ -1,14 +1,11 @@
+# Recriando a página inicial do Instagram
+
+Olá, recriei a página de login do instagram com a finalidade de práticar alguns conhecimentos.
+ -  Visual Studio Code
+
+-   Flexbox
+    -   Flex-direction, justify-content e align-items, flex-wrap.
+-   Media queries
+    -   Todo o site é responsivo para smartphones, tablets e desktops.
 
 
-
-Recriando página do Instagram
-
-# 
-
-## 🎮️ Sobre
-O projeto é recriar a página inicial do Instagram. Realizado dentro do bootcamp HTML Web Developer com o intuito de colocar em prática todo o conteúdo estudado durante o curso da DIO.
-
-## 👨‍💻️ Tecnogias utilizadas
-O projeto foi desenvolvido utilizando as seguintes tecnologias:
-
-💻️Visual Studio Code
